@@ -3,7 +3,7 @@ import { Hello } from "./App";
 const Details =() => {
     return(
         <div>
-            <Hello name="check me o"
+            <Hello name="check"
             greeting="hello studbet"/>
         </div>
     )
